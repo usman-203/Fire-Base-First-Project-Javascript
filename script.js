@@ -35,7 +35,7 @@ function signup() {
             console.log('sucess', sucess)
         })
         .catch(function (error) {
-            console.log('error', error)
-        })
+            console.log('error', error);
+        });
 
-}
+};
